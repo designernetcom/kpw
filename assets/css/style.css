@@ -4537,6 +4537,9 @@ FEATURES STYLES 3
   .service-area .service-box .title {
     font-size: 20px;
   }
+  .service-area .service-box {
+    text-align: center;
+  }
 }
 @media only screen and (max-width: 600px) {
   .service-area .service-box .icon {
