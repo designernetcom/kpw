@@ -3803,7 +3803,7 @@ FEATURES STYLES 3
   justify-content: space-between;
 }
 .header-top-area .social-links {
-  display: flex;
+  display: none;
   gap: 10px;
 }
 .header-top-area .social-links a {
